@@ -10,6 +10,8 @@ body {
     border: 5px solid black;
     margin-right: auto;
     margin-left: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 h1 {
